@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Teddy Bear",
+    category: "Plush",
+    price: 250,
+    description: "Soft teddy bear perfect for kids.",
+    image: "teddy.jpg",
+  },
+  {
+    id: 2,
+    name: "Toy Car",
+    category: "Vehicles",
+    price: 180,
+    description: "Colorful toy racing car.",
+    image: "car.jpg",
+  },
+  {
+    id: 3,
+    name: "Building Blocks",
+    category: "Educational",
+    price: 320,
+    description: "Creative building blocks set.",
+    image: "blocks.jpg",
+  },
+  {
+    id: 4,
+    name: "Princess Doll",
+    category: "Dolls",
+    price: 400,
+    description: "Beautiful princess doll.",
+    image: "doll.jpg",
+  },
+  {
+    id: 5,
+    name: "Puzzle",
+    category: "Educational",
+    price: 220,
+    description: "100-piece colorful puzzle.",
+    image: "/products/puzzle.jpg",
+  },
+  {
+    id: 6,
+    name: "Kitchen Set",
+    category: "Role Play",
+    price: 450,
+    description: "Kids pretend play kitchen.",
+    image: "/products/kitchen.jpg",
+  },
+  {
+    id: 7,
+    name: "Robot",
+    category: "Electronic",
+    price: 600,
+    description: "Interactive toy robot.",
+    image: "/products/robot.jpg",
+  },
+  {
+    id: 8,
+    name: "Basketball",
+    category: "Sports",
+    price: 150,
+    description: "Lightweight basketball for kids.",
+    image: "/products/ball.jpg",
+  },
+];
+
+export default products;
