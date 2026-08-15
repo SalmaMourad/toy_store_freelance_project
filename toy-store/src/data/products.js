@@ -9,11 +9,11 @@ const defaultProducts  = [
   },
   {
     id: 2,
-    name: "Bubble Gun Pink",
-    category: "Fun",
-    price: 250,
-    description: "Shooting bubbles gun in pink color.",
-    image: "bubblepink.jpg",
+    name: "Toy Car",
+    category: "Vehicles",
+    price: 180,
+    description: "Colorful toy racing car.",
+    image: "car.jpg",
   },
   {
     id: 3,
