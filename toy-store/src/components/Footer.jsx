@@ -63,12 +63,12 @@ export default function Footer() {
 <div className="space-y-1 text-center">
 
     <p className="flex items-center justify-center gap-2 text-sm text-gray-500">
-        Made with
+        Made by Salma Mourad with
         <FaHeart className="text-pink-500" />
     </p>
 
     <p className="text-sm text-gray-500">
-        © 2026 Little Joy Toys. All rights reserved.
+        © 2026 Batates Toys. All rights reserved.
     </p>
 
 </div>
