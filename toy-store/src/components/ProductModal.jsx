@@ -109,7 +109,7 @@ export default function ProductModal({ product, onClose }) {
 
                         {/* WhatsApp */}
                         <a
-                            href={`https://wa.me/201122527771?text=${encodeURIComponent(
+                            href={`https://wa.me/201037027694?text=${encodeURIComponent(
                                 `Hi, I want to order: ${product.name} - ${product.price} EGP`
                             )}`}
                             target="_blank"
@@ -135,7 +135,7 @@ export default function ProductModal({ product, onClose }) {
 
                         {/* Facebook */}
                         <a
-                            href="https://facebook.com/yourpage"
+                            href="https://www.facebook.com/share/18J8ipJtpi/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="
@@ -160,7 +160,7 @@ export default function ProductModal({ product, onClose }) {
 
                         {/* Instagram */}
                         <a
-                            href="https://instagram.com/yourpage"
+                            href="https://www.instagram.com/batatestoys?igsh=M2FmeXJjZW5ic3pq"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="
